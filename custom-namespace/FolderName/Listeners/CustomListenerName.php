@@ -2,7 +2,7 @@
 
 namespace CustomNamespace\FolderName\Listeners;
 
-use CustomNamespace\FolderName\Listeners;
+use CustomNamespace\FolderName\Events\CustomEventName;
 
 class CustomListenerName
 {
